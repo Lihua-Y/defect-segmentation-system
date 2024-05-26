@@ -19,6 +19,7 @@ opencv-python==4.9.0.80
 pandas==2.0.3
 PyQt5==5.15.10
 scipy==1.13.0
+SimpleITK==2.3.1
 torch==1.12.1
 torchaudio==0.12.1
 torchvision==0.13.1
