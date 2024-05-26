@@ -6,16 +6,21 @@ Defect segmentation system written using pyqt5. The effect is as follows. The le
 ## About the dataset/model
 You can use public datasets or self-built datasets. The model part of the code is in networks/vit_seg_modeling. The training part of the code can use the official training code of TransUnet. After training, create a new folder named model in the project, and then Just place the weight file in the model folder.
  ## Requirements
-Code was tested with Python 3.9. pytorch 1.12.1. cuda113. To install the required dependencies simply run pip install -r requirements.txt.
+Code was tested with Python 3.9. To install the required dependencies simply run pip install -r requirements.txt.
 
 ```python
-numpy
-tqdm
-tensorboard
-tensorboardX
-ml-collections
-medpy
-SimpleITK
-scipy
-h5py
+tensorboard==2.16.2
+tensorboardX==2.6.2.2
+MedPy==0.5.1
+ml_collections==0.1.1
+h5py==3.11.0
+numpy==1.25.2
+opencv-python==4.9.0.80
+pandas==2.0.3
+PyQt5==5.15.10
+scipy==1.13.0
+torch==1.12.1
+torchaudio==0.12.1
+torchvision==0.13.1
+tqdm==4.66.4
 ```
