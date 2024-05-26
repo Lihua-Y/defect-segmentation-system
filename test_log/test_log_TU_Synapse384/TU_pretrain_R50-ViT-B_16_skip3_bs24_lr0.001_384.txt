@@ -1,0 +1,256 @@
+[10:36:25.183] Namespace(volume_path='./data/Synapse/test_vol_h5', dataset='Synapse', num_classes=2, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[10:36:25.183] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[10:36:25.184] 288 test iterations per epoch
+[10:49:22.411] Namespace(volume_path='./data/Synapse/test_vol_h5', dataset='Synapse', num_classes=2, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[10:49:22.412] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[10:49:22.412] 288 test iterations per epoch
+[11:28:50.500] Namespace(volume_path='./data/Synapse/test_vol_h5', dataset='Synapse', num_classes=2, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:28:50.501] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:28:50.501] 288 test iterations per epoch
+[15:18:11.788] Namespace(volume_path='data_folder', dataset='Synapse', num_classes=2, list_dir='list_folder', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:18:11.788] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:21:06.714] Namespace(volume_path='data_folder', dataset='Synapse', num_classes=2, list_dir='list_folder', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:21:06.714] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:22:33.692] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:22:33.692] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:22:33.693] 288 test iterations per epoch
+[15:24:11.299] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='D:\\linshi\\prediction', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:24:11.300] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:24:11.300] 288 test iterations per epoch
+[15:39:08.489] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:39:08.489] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:39:08.490] 288 test iterations per epoch
+[15:40:47.027] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:40:47.027] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:40:47.027] 288 test iterations per epoch
+[15:44:12.222] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:44:12.222] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:44:12.222] 288 test iterations per epoch
+[16:13:55.662] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[16:13:55.662] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[16:13:55.663] 288 test iterations per epoch
+[16:16:06.057] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[16:16:06.057] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[16:16:06.057] 288 test iterations per epoch
+[17:04:27.738] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:04:27.738] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:04:27.738] 288 test iterations per epoch
+[17:08:32.397] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:08:32.397] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:08:32.397] 288 test iterations per epoch
+[17:15:44.501] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:15:44.501] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:15:44.502] 288 test iterations per epoch
+[17:21:08.312] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:21:08.312] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:21:08.313] 288 test iterations per epoch
+[17:28:26.692] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:28:26.692] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:28:26.692] 288 test iterations per epoch
+[17:46:25.175] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:46:25.176] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:46:25.176] 288 test iterations per epoch
+[17:47:20.097] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='D:\\linshi\\prediction', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:47:20.098] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:47:20.098] 288 test iterations per epoch
+[17:52:19.388] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:52:19.388] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:52:19.388] 288 test iterations per epoch
+[18:00:06.622] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[18:00:06.622] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[18:00:06.622] 288 test iterations per epoch
+[18:31:17.044] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[18:31:17.044] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[18:31:17.045] 288 test iterations per epoch
+[18:39:38.756] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[18:39:38.756] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[18:39:38.756] 288 test iterations per epoch
+[18:52:13.394] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[18:52:13.394] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[18:52:13.395] 288 test iterations per epoch
+[19:00:06.210] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[19:00:06.210] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[19:00:06.216] 288 test iterations per epoch
+[19:05:20.983] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[19:05:20.983] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[19:05:20.989] 288 test iterations per epoch
+[19:08:27.199] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[19:08:27.199] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[19:08:27.200] 288 test iterations per epoch
+[19:19:20.431] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[19:19:20.432] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[19:19:20.432] 288 test iterations per epoch
+[19:36:54.451] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[19:36:54.451] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[19:36:54.451] 288 test iterations per epoch
+[20:13:50.308] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[20:13:50.309] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[20:13:50.310] 288 test iterations per epoch
+[20:24:56.747] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[20:24:56.747] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[20:24:56.747] 288 test iterations per epoch
+[21:04:16.509] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[21:04:16.509] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[21:04:16.510] 288 test iterations per epoch
+[23:10:09.660] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[23:10:09.661] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[23:10:09.662] 288 test iterations per epoch
+[23:18:26.780] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[23:18:26.780] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[23:18:26.781] 288 test iterations per epoch
+[23:42:45.334] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[23:42:45.334] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[23:42:45.335] 288 test iterations per epoch
+[00:05:31.789] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[00:05:31.789] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[00:05:31.790] 288 test iterations per epoch
+[11:00:14.812] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:00:14.812] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:00:14.813] 288 test iterations per epoch
+[11:04:38.943] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:04:38.943] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:04:38.944] 288 test iterations per epoch
+[11:15:18.938] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:15:18.938] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:15:18.939] 288 test iterations per epoch
+[13:11:53.742] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[13:11:53.742] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[13:11:53.743] 288 test iterations per epoch
+[13:18:57.014] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[13:18:57.014] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[13:18:57.015] 288 test iterations per epoch
+[13:23:21.659] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[13:23:21.659] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[13:23:21.660] 288 test iterations per epoch
+[13:28:07.507] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[13:28:07.507] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[13:28:07.507] 288 test iterations per epoch
+[14:00:03.032] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[14:00:03.032] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[14:00:03.032] 288 test iterations per epoch
+[14:49:18.556] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[14:49:18.556] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[14:49:18.556] 288 test iterations per epoch
+[15:01:56.942] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:01:56.942] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:01:56.943] 288 test iterations per epoch
+[15:07:28.222] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:07:28.223] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:07:28.223] 164 test iterations per epoch
+[15:23:40.357] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:23:40.357] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:23:40.358] 164 test iterations per epoch
+[17:48:15.383] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:48:15.384] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:48:15.384] 164 test iterations per epoch
+[18:01:07.298] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[18:01:07.298] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[18:01:07.299] 164 test iterations per epoch
+[19:19:51.080] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[19:19:51.081] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[19:19:51.081] 100 test iterations per epoch
+[20:07:08.692] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[20:07:08.692] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[20:07:08.692] 100 test iterations per epoch
+[20:28:16.384] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[20:28:16.384] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[20:28:16.384] 100 test iterations per epoch
+[20:53:02.057] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[20:53:02.058] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[20:53:02.058] 100 test iterations per epoch
+[22:11:25.261] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[22:11:25.261] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[22:11:25.261] 100 test iterations per epoch
+[22:21:31.329] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[22:21:31.329] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[22:21:31.329] 100 test iterations per epoch
+[11:44:21.295] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:44:21.296] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:44:21.296] 100 test iterations per epoch
+[11:46:50.599] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:46:50.599] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:46:50.600] 100 test iterations per epoch
+[11:52:02.551] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:52:02.552] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:52:02.552] 100 test iterations per epoch
+[11:59:49.543] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:59:49.543] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:59:49.543] 100 test iterations per epoch
+[12:08:51.933] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[12:08:51.933] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[12:08:51.934] 100 test iterations per epoch
+[12:13:44.647] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[12:13:44.647] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[12:13:44.647] 100 test iterations per epoch
+[12:44:31.418] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[12:44:31.418] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[12:44:31.418] 100 test iterations per epoch
+[12:57:20.581] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[12:57:20.581] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[12:57:20.581] 100 test iterations per epoch
+[13:03:27.522] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[13:03:27.522] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[13:03:27.522] 100 test iterations per epoch
+[14:56:58.993] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[14:56:58.994] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[14:56:58.994] 100 test iterations per epoch
+[15:13:39.497] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:13:39.498] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:13:39.498] 100 test iterations per epoch
+[15:18:48.113] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:18:48.113] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:18:48.113] 100 test iterations per epoch
+[15:33:16.419] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:33:16.420] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:33:16.420] 100 test iterations per epoch
+[15:36:53.895] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:36:53.895] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:36:53.895] 100 test iterations per epoch
+[15:54:10.369] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[15:54:10.370] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[15:54:10.370] 100 test iterations per epoch
+[16:35:08.616] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[16:35:08.616] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[16:35:08.616] 100 test iterations per epoch
+[17:08:36.924] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:08:36.925] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:08:36.926] 100 test iterations per epoch
+[17:29:55.326] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:29:55.326] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:29:55.327] 100 test iterations per epoch
+[23:45:34.093] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[23:45:34.094] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[23:45:34.094] 100 test iterations per epoch
+[23:54:31.054] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[23:54:31.054] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[23:54:31.055] 100 test iterations per epoch
+[23:57:30.265] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[23:57:30.265] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[23:57:30.265] 100 test iterations per epoch
+[00:45:41.187] Namespace(volume_path='D:\\XiangMu_models\\project_1\\Result\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\XiangMu_models\\project_1\\Result\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[00:45:41.187] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[00:45:41.187] 100 test iterations per epoch
+[21:31:02.996] Namespace(volume_path='D:\\XiangMu_models\\project_1\\Result\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\XiangMu_models\\project_1\\Result\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[21:31:02.996] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[21:31:02.997] 28 test iterations per epoch
+[21:46:54.290] Namespace(volume_path='D:\\XiangMu_models\\project_1\\Result\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\XiangMu_models\\project_1\\Result\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[21:46:54.291] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[21:46:54.291] 28 test iterations per epoch
+[17:07:52.486] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[17:07:52.486] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[17:07:52.487] 0 test iterations per epoch
+[10:48:27.416] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[10:48:27.416] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[10:48:27.418] 0 test iterations per epoch
+[10:52:26.138] Namespace(volume_path='D:\\linshi\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\linshi\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[10:52:26.138] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[10:52:26.139] 0 test iterations per epoch
+[11:03:04.738] Namespace(volume_path='D:\\XiangMu_project\\project_1\\Result\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\XiangMu_project\\project_1\\Result\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:03:04.739] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:03:04.739] 28 test iterations per epoch
+[11:05:58.602] Namespace(volume_path='D:\\XiangMu_project\\project_1\\Result\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\XiangMu_project\\project_1\\Result\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:05:58.602] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:05:58.603] 100 test iterations per epoch
+[11:14:31.466] Namespace(volume_path='D:\\XiangMu_project\\project_1\\Result\\npz', dataset='Synapse', num_classes=2, list_dir='D:\\XiangMu_project\\project_1\\Result\\txt', max_iterations=20000, max_epochs=30, batch_size=24, img_size=384, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.001, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse384')
+[11:14:31.466] TU_pretrain_R50-ViT-B_16_skip3_bs24_lr0.001_384
+[11:14:31.466] 100 test iterations per epoch
