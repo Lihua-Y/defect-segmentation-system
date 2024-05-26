@@ -8,6 +8,7 @@ You can use public datasets or self-built datasets. The model part of the code i
  ## Requirements
 Code was tested with Python 3.9. pytorch 1.12.1. cuda113. To install the required dependencies simply run pip install -r requirements.txt.
 
+```python
 numpy
 tqdm
 tensorboard
@@ -17,3 +18,4 @@ medpy
 SimpleITK
 scipy
 h5py
+```
