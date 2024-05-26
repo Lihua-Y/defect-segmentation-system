@@ -4,4 +4,4 @@ Defect segmentation system written using pyqt5. The effect is as follows. The le
 ![image-20220213204047803](https://github.com/LihuaYang404/images/blob/main/image/image1.png)
 
 ## About the dataset/model
-You can use public data sets or self-built data sets. The model part of the code is in networks/vit_seg_modeling. The training part of the code can use the official training code of TransUnet. After training, create a new folder named model in the project, and then Just place the weight file in the model folder.
+You can use public datasets or self-built datasets. The model part of the code is in networks/vit_seg_modeling. The training part of the code can use the official training code of TransUnet. After training, create a new folder named model in the project, and then Just place the weight file in the model folder.
