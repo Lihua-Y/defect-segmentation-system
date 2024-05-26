@@ -3,8 +3,5 @@
 
 ![image-20220213204047803](https://github.com/LihuaYang404/images/blob/main/image/image1.png)
 
-## 关于数据集
-公开数据集
-
-## 数据处理
-
+## 关于数据集/模型
+可以使用公开的数据集，也可以使用自建数据集，模型部分代码在networks/vit_seg_modeling,训练部分代码可以使用TransUnet官方的训练代码，训练完之后将权重文件放在model文件夹下即可。
